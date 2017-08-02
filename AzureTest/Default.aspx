@@ -10,7 +10,7 @@
         <div>
             Hello World!<br />
             <br />
-            This is the Azure test app dated 7/31/2017</div>
+            This is the Azure test app dated 8/2/2017</div>
     </form>
 </body>
 </html>
