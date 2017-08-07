@@ -67,6 +67,8 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\JimsAzureTest1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\JimsAzureTest1-staging - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\JimsAzureTest1-staging - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
