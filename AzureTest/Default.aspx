@@ -13,7 +13,7 @@
             This is the Azure test app dated 8/9/2017<br />
             Test for Git deploy to Azure<br />
             <br />
-            Github deployment test</div>
+            Full automation test</div>
     </form>
 </body>
 </html>
