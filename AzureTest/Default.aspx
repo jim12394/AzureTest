@@ -10,10 +10,10 @@
         <div>
             Hello World!<br />
             <br />
-            This is the Azure test app dated 8/7/2017<br />
+            This is the Azure test app dated 8/9/2017<br />
             Test for Git deploy to Azure<br />
             <br />
-            Test with Andrew</div>
+            Test of script</div>
     </form>
 </body>
 </html>
