@@ -10,7 +10,7 @@
         <div>
             Hello World!<br />
             <br />
-            This is the Azure test app dated 8/11/2017<br />
+            This is the Azure test app dated 8/21/2017<br />
             Test for Git deploy to Azure<br />
             <br />
             <asp:Label ID="Label1" runat="server" BorderStyle="Dotted" Text="Label"></asp:Label>
